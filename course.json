@@ -1,0 +1,116 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "01",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 488,
+        "title": "Web design using html and CSS",
+        "author": {
+          "name": "Parthve shill",
+          "published_date": "2022-08-24 17:27:34",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+        "details": " is the skelatorn of web page. SO in web development journey we must kno HTML. CSS is for style . CSS make your website beautifull. There so many complex  things in CSS like animation and css variable. We will learn all this things. "
+      },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "01",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 488,
+        "title": "Web design using html and CSS",
+        "author": {
+          "name": "Mir Hossain",
+          "published_date": "2022-08-24 17:27:34",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+        "details": "IN This course we will learn Javascript Basic to advanced. IN js there so many complex things like es6, arrow function, distructuring,  fetch , async, await, api , etc. We will learn all those complex things in a easy way .  "
+      },
+      {
+        "_id": "f69a695f037cd9484cecaea37ca71011",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "01",
+        "rating": { "number": 4.8, "badge": "Excellent" },
+        "total_view": 400,
+        "title": "Git and Github Basic to Advanced",
+        "author": {
+          "name": "Jennifer Wood",
+          "published_date": "2022-08-30 16:38:45",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+        "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
+        "details": "In this course we will learn Git and Github basic to adnaced. What is Git? Why we should use  git? What is the purpose of using git?  Deffernce between git and github? Git repo create, git branch create, git add , git commit , git push. All those things in easy way ."
+      },
+      {
+        "_id": "f69a695f037cd9484cecaea37ca71012",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "02",
+        "rating": { "number": 4.3, "badge": "Excellent" },
+        "total_view": 400,
+        "title": "React JS Basic to Advanced",
+        "author": {
+          "name": "Jennifer Wood",
+          "published_date": "2022-08-30 16:38:45",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+        "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
+        "details": "In this course we will learn React js. What is React JS? Why we should use React JS ? React Route ? Context Api ? State management? What is single page application etc. We will covers those topics in a easy way .  "
+      },
+      {
+        "_id": "11468ed61aee84de492a8b04158a22f9",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": false
+        },
+        "category_id": "03",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 980,
+        "title": "Firebase Authentication",
+        "author": {
+          "name": "parthive shill",
+          "published_date": "2022-08-24 23:15:00",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+        "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
+        "details": "In this course wil cover Firebase Authentication System . What is firebase ? How to implement Google sign Method in your project? How to implement Github sign Method in your project? and also Implement Email and password login method ? How to host your site in  fireabse hosting? "
+      },
+      {
+        "_id": "11468ed61aee84de492a8b04158a22f0",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": false
+        },
+        "category_id": "01",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 980,
+        "title": "Node js (express js server making )",
+        "author": {
+          "name": "parthive shill",
+          "published_date": "2022-08-24 23:15:00",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+        "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
+        "details": "In this course we will learn Express jS. What is sever ? How to make a server using express js ? How to make your own api? How to recive request and send data ? What is cors ? "
+      }
+]
